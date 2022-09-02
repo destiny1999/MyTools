@@ -1,2 +1,2 @@
 # MyTools
-some small functions
+some simple functions
